@@ -30,4 +30,4 @@ phpunit.phar
 /web/images
 
 #save files
-/web/images
+/web/uploads
